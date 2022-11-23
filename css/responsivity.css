@@ -1,0 +1,24 @@
+@media(min-width: 650px){
+    main {
+        max-width: 650px;
+        padding: none;
+    }
+    body {
+        min-height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    img {
+        height: 22rem;
+        width: 33rem;
+    }
+
+    .bandeira img{
+        height: 3.5rem;
+        width: 3.5rem;
+        
+    }
+    
+}
